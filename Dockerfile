@@ -1,4 +1,4 @@
-FROM grafana/grafana:latest
+FROM grafana/grafana:3.0.4
 
 MAINTAINER Dmitry Seleznyov <selim013@gmail.com>
 
